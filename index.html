@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pra você 💗</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="background-hearts"></div>
+
+  <main class="app">
+
+    <section class="screen intro active">
+      <div class="intro-card">
+        <h1>pra você ♡</h1>
+        <p>
+          fiz uma coisinha boba com algumas músicas que me lembram você.
+          <br><br>
+          não sei explicar direito o porquê, mas cada trecho tem um pedacinho
+          de algo que eu queria te mostrar.
+        </p>
+        <button id="startBtn">começar ♡</button>
+      </div>
+    </section>
+
+    <section class="screen player-screen">
+      <p class="counter" id="counter">1/7</p>
+
+      <div class="music-card">
+
+        <div class="lyrics-box">
+          <h3>Trecho da música:</h3>
+          <p id="lyrics"></p>
+        </div>
+
+        <div class="player-row">
+          <img id="cover" class="cover" src="" alt="Capa da música">
+
+          <div class="song-info">
+            <h2 id="songTitle">Nome da música</h2>
+            <p id="artist">Artista</p>
+
+            <div class="player">
+              <button id="playBtn" class="play-btn">▶</button>
+
+              <div class="progress-area">
+                <span id="currentTime">0:00</span>
+                <input type="range" id="progress" value="0" min="0" max="100">
+                <span id="duration">0:00</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <button id="nextBtn" class="next-btn">próxima ›</button>
+      </div>
+    </section>
+
+    <section class="screen final-screen">
+      <div class="final-card">
+        <h2>só queria te lembrar ♡</h2>
+        <p>
+          que algumas músicas ficam mais bonitas
+          quando elas me fazem pensar em você.
+        </p>
+        <button id="restartBtn">ver de novo ♡</button>
+      </div>
+    </section>
+
+  </main>
+
+  <audio id="audio"></audio>
+  <script src="script.js"></script>
+</body>
+</html>
