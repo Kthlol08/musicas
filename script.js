@@ -3,7 +3,7 @@ const songs = [
     title:"Garota de Ipanema",
     artist:"Tom Jobim",
     cover:"capas/GarotadeIpanema.jpg",
-    audio:"musicas/GarotadeIpanema.wav",
+    audio:"musicas/GarotadeIpanema.mp3",
     lyrics:`Ah, se ela soubesse que quando ela passa 
 O mundo inteirinho se enche de graça`
   },
@@ -11,7 +11,7 @@ O mundo inteirinho se enche de graça`
     title:"Coisa Mais Linda",
     artist:"Caetano Veloso",
     cover:"capas/Coisamaislinda.jpg",
-    audio:"musicas/Coisamaislinda.wav",
+    audio:"musicas/Coisamaislinda.mp3",
     lyrics:`Você é mais bonita que a flor 
 Quem dera A primavera da flor 
 Tivesse todo esse aroma de beleza que é o amor 
@@ -22,7 +22,7 @@ Numa forma de mulher`
     title:"Barcelona",
     artist:"L7NNON",
     cover:"capas/Barcelona.jpg",
-    audio:"musicas/Barcelona.wav",
+    audio:"musicas/Barcelona.mp3",
     lyrics:`Então vamos juntos pra Barcelona Madri, Paris 
 Nenhuma chega aos seus pés 
 Inclusive comprei alguns pares 
@@ -33,7 +33,7 @@ Bem que podia`
   {
     title:"Lisboa",
     artist:"ANAVITÓRIA",
-    cover:"capas/Lisboa.jpg",
+    cover:"capas/Lisboa.mp3",
     audio:"musicas/Lisboa.wav",
     lyrics:`Eu vejo tua cara e teu querer perverso 
 A gente fica bem aqui no chão da sala 
@@ -53,7 +53,7 @@ Que tu sentiu o que eu senti`
     title:"Poesia Acústica 9",
     artist:"L7NNON",
     cover:"capas/Poesia.jpg",
-    audio:"musicas/Poesia.wav",
+    audio:"musicas/Poesia.mp3",
     lyrics:`Se ela disser que me ama, eu vou mudar de vida, ahn 
 Me chama de vida 
 Pra tu ver se eu não te faço feliz 
@@ -63,7 +63,7 @@ Como ninguém fez ainda, bebê`
     title:"Serendipity",
     artist:"Jimin",
     cover:"capas/Serendipty.jpg",
-    audio:"musicas/Serendipty.wav",
+    audio:"musicas/Serendipty.mp3",
     lyrics:`Você é meu remédio 
 Me salvando 
 Meu anjo, meu mundo 
@@ -77,7 +77,7 @@ Apenas deixe-me te amar`
     title:"Heaven Can Wait",
     artist:"Michael Jackson",
     cover:"capas/Heaven.jpg",
-    audio:"musicas/Heaven.wav",
+    audio:"musicas/Heaven.mp3",
     lyrics:`Se os anjos vierem para mim eu direi a eles não 
 Diga aos anjos não, eu não quero deixar minha querida sozinha 
 Eu não quero ninguém mais abraçando você 
