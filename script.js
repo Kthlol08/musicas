@@ -33,8 +33,8 @@ Bem que podia`
   {
     title:"Lisboa",
     artist:"ANAVITÓRIA",
-    cover:"capas/Lisboa.mp3",
-    audio:"musicas/Lisboa.wav",
+    cover:"capas/Lisboa.jpg",
+    audio:"musicas/Lisboa.mp3",
     lyrics:`Eu vejo tua cara e teu querer perverso 
 A gente fica bem aqui no chão da sala 
 Eu te queria a vida toda, te confesso 
